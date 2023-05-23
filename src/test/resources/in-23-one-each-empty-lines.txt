@@ -1,0 +1,11 @@
+1 | Bacon Roll
+1 | Coffee small
+1 | Coffee medium
+1 | Coffee large
+1 | Freshly squeezed orange juice (0.25l)
+1 | Extra milk
+
+
+1 | Foamed milk
+1 | Special roast coffee
+
